@@ -9,8 +9,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009856531905) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/https://x.com/HKINTERNATION22) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_harikrishnan_01/) 
 
 
 # 💻 Tech Stack:
