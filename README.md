@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL?theme=dark)](https://leetcode.com/u/HK_INTERNATIONAL/)
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL&theme=dark)](https://leetcode.com/u/HK_INTERNATIONAL/)
 
 </div>
 
