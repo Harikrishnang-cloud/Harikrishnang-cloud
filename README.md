@@ -12,7 +12,13 @@
 ## 🏆 LeetCode Achievements
 
 <div align="center">
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL?theme=dark)](https://leetcode.com/u/HK_INTERNATIONAL/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/HK_INTERNATIONAL?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/HK_INTERNATIONAL/)
+
+<br><br>
+
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL&theme=dark)](https://leetcode.com/u/HK_INTERNATIONAL/)
+
 </div>
 
 <!-- <p align="center">
