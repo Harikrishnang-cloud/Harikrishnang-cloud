@@ -14,7 +14,7 @@
 <div align="center">
   <img
     src="https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL&theme=dark"
-    width="100%"
+    width="50%"
   />
 </div>
 
