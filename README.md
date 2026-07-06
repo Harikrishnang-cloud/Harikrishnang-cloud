@@ -13,28 +13,10 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/HK_INTERNATIONAL/">
-  <img src="https://leetcard.jacoblin.cool/HK_INTERNATIONAL?theme=dark&font=Karma&ext=contest" width="48%" />
-</a>
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL)](https://leetcode.com/u/HK_INTERNATIONAL/)
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL?theme=dark)](https://leetcode.com/u/HK_INTERNATIONAL/)
 
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">🏆 <b>LeetCode Stats</b></td>
-<td align="center">📈 <b>Heatmap</b></td>
-<td align="center">🔥 <b>Daily Streak</b></td>
-<td align="center">💯 <b>Total Solved</b></td>
-</tr>
-</table>
-
-<p align="center">
-<a href="https://leetcode.com/u/HK_INTERNATIONAL/">
-<b>➡️ View all achievements & badges</b>
-</a>
-</p>
 
 <!-- <p align="center">
 🔥 Solving problems daily to strengthen problem-solving skills.
