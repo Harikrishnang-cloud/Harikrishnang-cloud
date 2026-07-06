@@ -9,6 +9,18 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009856531905) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/https://x.com/HKINTERNATION22) 
 
+## 🏆 LeetCode Achievements
+
+<div align="center">
+
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL)](https://leetcode.com/u/HK_INTERNATIONAL/)
+
+</div>
+
+<p align="center">
+🔥 Solving problems daily to strengthen problem-solving skills.
+</p>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
