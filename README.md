@@ -11,14 +11,11 @@
 
 ## 🏆 LeetCode Achievements
 
-<div align="center">
-<br><br>
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL&theme=dark)](https://leetcode.com/u/HK_INTERNATIONAL/)
-</div>
-
-<!-- <p align="center">
-🔥 Solving problems daily to strengthen problem-solving skills.
-</p> -->
+<p align="center">
+  <a href="https://leetcode.com/u/HK_INTERNATIONAL/">
+    <img src="https://leetcard.jacoblin.cool/HK_INTERNATIONAL?theme=dark&font=Karma&ext=contest" />
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
