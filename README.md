@@ -11,11 +11,12 @@
 
 ## 🏆 LeetCode Achievements
 
-<p align="center">
-  <a href="https://leetcode.com/u/HK_INTERNATIONAL/">
-    <img src="https://leetcard.jacoblin.cool/HK_INTERNATIONAL?theme=dark&font=Karma&ext=contest" />
-  </a>
-</p>
+<div align="center">
+  <img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=HK_INTERNATIONAL"
+    width="900"
+  />
+</div>
 
 
 # 💻 Tech Stack:
