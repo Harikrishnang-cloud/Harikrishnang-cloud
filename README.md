@@ -56,5 +56,15 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=Harikrishnang-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HK_INTERNATIONAL&theme=github_dark" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HK_INTERNATIONAL&theme=github_dark" width="48%">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HK_INTERNATIONAL&theme=github_dark" width="98%">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
